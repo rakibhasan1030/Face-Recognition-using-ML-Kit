@@ -40,4 +40,15 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+
+    // Face features
+    // Use this dependency to use dynamically downloaded model in Google Play Service
+    implementation 'com.google.android.gms:play-services-mlkit-face-detection:17.0.1'
+
+
+    //Permission handle
+    implementation 'com.karumi:dexter:6.2.3'
+
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
 }

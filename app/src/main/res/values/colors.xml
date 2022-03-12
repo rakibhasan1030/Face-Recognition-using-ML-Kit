@@ -5,6 +5,34 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorAccent">#000000</color>
+    <color name="txt_black">#000000</color>
+    <color name="smoke_gray">#a2a2a2</color>
+    <color name="green">#2ac17e</color>
+    <color name="shadow_gray">#ECE6E6</color>
+    <color name="dark_gray">#757575</color>
+    <color name="dark_gray_half_transparent">#34757575</color>
+    <color name="subtxt_gray">#9fa3a8</color>
+    <color name="serch_gray">#9f9f9f</color>
+    <color name="matte_black">#28282B</color>
+    <color name="light_silver">#c2c4ca</color>
+
+
+    //colors
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="less_white">#F6F6F6</color>
+    <color name="black">#232323</color>
+    <color name="pink">#f53877</color>
+    <color name="pink_with_10_transparency">#1AF53877</color>
+    <color name="deep_pink">#B80D69</color>
+    <color name="red">#FF0000</color>
+    <color name="deep_red">#850101</color>
+    <color name="gainsboro">#dfdfdf</color>
+    <color name="silver">#b9b9b9</color>
+
 </resources>
