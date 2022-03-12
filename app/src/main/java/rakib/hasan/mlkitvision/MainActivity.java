@@ -102,8 +102,6 @@ public class MainActivity extends AppCompatActivity{
                         InputImage image = imageFromBitmap(bitmap);
                         detectFaces(image);
 
-
-
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
