@@ -136,11 +136,7 @@ public class MainActivity extends AppCompatActivity{
 
         // [START get_detector]
         FaceDetector detector = FaceDetection.getClient(options);
-        // Or use the default options:
-        // FaceDetector detector = FaceDetection.getClient();
-        // [END get_detector]
 
-        // [START run_detector]
         Task<List<Face>> result =
                 detector.process(image)
                         .addOnSuccessListener(
