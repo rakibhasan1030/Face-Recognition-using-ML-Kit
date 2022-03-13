@@ -121,7 +121,6 @@ public class MainActivity extends AppCompatActivity{
         // [END image_from_bitmap]
     }
 
-
     private void detectFaces(InputImage image) {
         // [START set_detector_options]
         FaceDetectorOptions options =
@@ -195,7 +194,5 @@ public class MainActivity extends AppCompatActivity{
                                 });
         // [END run_detector]
     }
-
-
 
 }

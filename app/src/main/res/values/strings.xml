@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ML Kit Vision</string>
+    <string name="no_face_detected">No face detected!</string>
+    <string name="face_detection_info">Face Detection Info</string>
+    <string name="detect_face">DETECT FACE</string>
+    <string name="select_image">Select Image</string>
+    <string name="face_detector">FACE DETECTOR</string>
 </resources>
