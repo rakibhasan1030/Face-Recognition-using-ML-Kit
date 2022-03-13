@@ -148,6 +148,7 @@ public class MainActivity extends AppCompatActivity{
 
                                         String facesInfo = null;
 
+
                                         for (Face face : faces) {
                                             Rect bounds = face.getBoundingBox();
                                             float rotY = face.getHeadEulerAngleY();  // Head is rotated to the right rotY degrees
@@ -178,6 +179,7 @@ public class MainActivity extends AppCompatActivity{
                                             }
                                         }
                                         binding.activityMainFaceDetectionInfoTv.setText(facesInfo);
+                                        binding.activityMainFaceDetectionInfoFaceCountTv.setText(faces.size() + getResources().getString(R.string.face_found));
                                         binding.activityMainFaceDetectionInfoTv.setMovementMethod(new ScrollingMovementMethod());
 
                                         // [END get_face_info]
