@@ -11,7 +11,7 @@ This app will detect faces from a still image and give a detail information abou
 
 ## Screenshots
 
-<img src="images/face_detection_ss_1.jpg" width=200> <img src="images/face_detection_ss_2.jpg" width=200>
+<img src="images/face_detection_ss_1.jpg" width=190> <img src="images/face_detection_ss_2.jpg" width=190>
 
 ## Authors
 
